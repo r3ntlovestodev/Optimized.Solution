@@ -27,4 +27,4 @@ go to folder "App/releases"
 Your probably scared of the exe well. Goto "https://virustotal.com/ or .org idk"
 and virus check it!
 
-
+## Install Below.
